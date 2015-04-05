@@ -1,7 +1,7 @@
 # english-georgian
 english-georgian stardict dictionary
 
-this files prepared with [this](https://github.com/norayr/english-georgian_dictionary) tool.
+these files prepared with [this](https://github.com/norayr/english-georgian_dictionary) tool.
 
 How to use dictionary
 =====================
